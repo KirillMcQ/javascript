@@ -37,7 +37,7 @@ applyToSquare(number => number * number);
 
 ## Array Analysis
 
-[Arrays][arrays-concept] have built-in methods to analyse the contents of the array.
+[Arrays][arrays-concept] have built-in methods to analyze the contents of the array.
 Most of these methods take a function that returns true or false as an argument.
 Such a function is called a [`predicate`][predicate_in_programming].
 
